@@ -457,35 +457,27 @@ All the games in this post are either free or pay-what-you-want (letting you get
 
 ## RPG Tools (solo and otherwise)
 
-### Safety
 
-[TTRPG safety toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj) in Google Drive
 
 ### Organizing, planning, and recording
 
-#### Notion
+[The Solo Player's Diary](https://elegantshout.itch.io/the-solo-players-diary)
 
-[Notion](https://www.notion.so/) is a TODO
+[Notion](https://www.notion.so/)
 
-#### OneNote
+[OneNote]()
 
-TODO
+[Roll20]
 
-#### Roll20
+[D&D Beyond]()
 
-TODO
+[Obsidian](https://obsidian.md/)
 
-#### DnD Beyond
+> A powerful note organizing and connecting software.
 
-TODO
+[Alchemy](https://alchemyrpg.com/) (NEW, early access release)
 
-#### Obsidian
-
-[Obsidian](https://obsidian.md/) is a powerful note organizing and connecting software.
-
-#### Alchemy (NEW, early access release)
-
-[Alchemy](https://alchemyrpg.com/) is a beauitful, brand-new platform for TTRPG playing. They also have a quick [overview video](https://www.youtube.com/watch?v=zy50Lwc74tY) on YouTube.
+> A beauitful, brand-new platform for TTRPG playing. They also have a quick [overview video](https://www.youtube.com/watch?v=zy50Lwc74tY) on YouTube.
 
 ## Playthroughs
 
