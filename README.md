@@ -189,6 +189,10 @@ All the games in this post are either free or pay-what-you-want (letting you get
 
 >In Japanese, Omotenashi (おもてなし) is a word that embodies the act of going above and beyond top class hospitality by anticipating customers’ desires through deliberate observation and attentiveness. In this game, you will play as a band of animals who have come together to delight their guests and welcome those looking for an escape, relaxation or even a luxurious getaway.
 
+### [TwixtWays](https://hamsterfluf.itch.io/twixtways-ranch-journaling-game)
+
+> TwixtWays Ranch is a single player farming RPG that takes place between all worlds and thus any creature or plant could fall here! This flexible system is designed for long play but can be done in any kind of increment.
+
 ## Funny/wild
 
 ### [A Very Tiny Fish With A Big-Ass Fishing Pole That Turns Into A Laser Sword](https://riverhousegames.itch.io/a-very-tiny-fish-with-a-big-ass-fishing-pole-that-turns-into-a-laser-sword)
